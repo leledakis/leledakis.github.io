@@ -13,7 +13,7 @@ const CONTENT = {
   email: "leledakis@hotmail.com",
   phone: "+30 694 827 1618",
   linkedin: "https://www.linkedin.com/in/dleledakis",
-  cvFile: "assets/Dimitris_Leledakis_CV.pdf",
+  cvFile: "assets/Leledakis_Dimitris_CV.pdf",
 
   summary:
     "Engineering Leader with 8+ years of experience in telecom and enterprise environments, specializing in Incident, Problem, and Change Management within Agile (SAFe) organizations. Proven track record leading cross-functional teams of up to 29 members, improving SLA/KPI performance, and driving service reliability and operational efficiency. Strong technical foundation (Electronic & Computer Engineering) combined with business acumen (MBA).",
